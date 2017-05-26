@@ -3,18 +3,15 @@
 ## Cooking Helper app
 
 * Cooking Helper
-* Team Members (Matthew Powaschuk, 30022573) (John Hall,) (Niroojen Thambimuthu, 10153928)
+* Team Members (Matthew Powaschuk, 30022573) (John Hall, 10043347) (Niroojen Thambimuthu, 10153928)
 * Tutorial 03, TA: Sydney Pratte
 
 ## Project Idea
 
 ![](http://lorempixel.com/1200/300/ "Motivational image")
 
-_[summary -- e.g. from P1]_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat ex vitae metus dapibus, vel auctor mi tincidunt. Vestibulum vitae rhoncus est. Curabitur molestie nunc in velit lobortis, mollis pellentesque lacus interdum. Aliquam consectetur malesuada dolor quis lacinia. Nullam dictum felis lectus, tincidunt auctor orci efficitur sed. In ac urna at leo pretium varius at id orci. Mauris sed tincidunt turpis, eget malesuada urna. In consectetur, purus et aliquet tincidunt, orci quam eleifend tellus, vel convallis sem odio a nunc. Pellentesque sed facilisis risus, ut rhoncus nibh. Sed ut ipsum condimentum, faucibus velit id, ornare arcu. Suspendisse at velit scelerisque, cursus ante sit amet, porttitor ipsum. Nulla eu suscipit sapien. Cras ullamcorper cursus mi. Proin blandit luctus enim, eu tincidunt libero dapibus eu. Mauris ut finibus turpis. Etiam nisi erat, malesuada ut velit quis, viverra feugiat augue.
+Our idea is for an app that would function primarily as a cookbook with many functions such as search by ingredient, omit ingredient, search by cooking time, rating recipes, as well as a user section where users could upload their own recipes. This would be available in a seperate section from our main cookbook due to inevitable inconsistencies in the quality of user-uploaded recipes. Our cookbook would also be unique as the recipes will include many optional steps, as well as recommended variations in ingredients and/or amount of each ingredient that would change the taste in a unique way. Our app would be available first on mobile, and later on on Mac/PC, we chose this ordering because mobile devices are the easiest to have around in a kitchen. 
 
 _[summary image -- sketch or picture]_
 
-![](http://lorempixel.com/550/450 "First of two kittens")
-![](http://lorempixel.com/550/450 "Second of two kittens")
-
-Vestibulum augue mauris, interdum non auctor id, cursus eget metus. Praesent laoreet arcu a ornare placerat. Donec turpis mauris, luctus eu sollicitudin eu, fringilla eget purus. Curabitur ut libero sit amet risus tempor rutrum vitae sit amet diam. Fusce efficitur dui ut purus fringilla gravida. Etiam gravida, quam eget fermentum vestibulum, dui libero scelerisque lectus, eu ornare lacus tortor at neque. Praesent volutpat pretium libero, in ornare nisi ultrices quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse in sollicitudin nibh, quis pellentesque elit. Cras imperdiet pellentesque odio, sed hendrerit tortor vehicula sed. Etiam quis tempor erat. Sed vel leo ut magna ultrices auctor quis id risus.
+_To be added in when diagrams are added in P2_
