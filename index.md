@@ -1,10 +1,10 @@
-# CPSC 481 - Tutorial [X] - Group [Y]
+# CPSC 481 - Tutorial [X] - Group [1]
 
-## Project Title
+## Cooking Helper app
 
-* Title
-* Team Members (names, IDs)
-* Tutorial Number and TA
+* Cooking Helper
+* Team Members (Matthew Powaschuk, 30022573) (John Hall,) (Niroojen Thambimuthu,)
+* Tutorial 03, TA: Sydney Pratte
 
 ## Project Idea
 
