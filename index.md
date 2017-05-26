@@ -5,6 +5,7 @@
 * Cooking Helper
 * Team Members (Matthew Powaschuk, 30022573) (John Hall, 10043347) (Niroojen Thambimuthu, 10153928)
 * Tutorial 03, TA: Sydney Pratte
+* Contact: mpowa705@gmail.com or Slack group #t03group1
 
 ## Project Idea
 
