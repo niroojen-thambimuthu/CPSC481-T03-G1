@@ -1,4 +1,4 @@
-# CPSC 481 - Tutorial [X] - Group [1]
+# CPSC 481 - Tutorial [3] - Group [1]
 
 ## Cooking Helper app
 
