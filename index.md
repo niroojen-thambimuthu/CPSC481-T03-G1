@@ -3,7 +3,7 @@
 ## Cooking Helper app
 
 * Cooking Helper
-* Team Members (Matthew Powaschuk, 30022573) (John Hall,) (Niroojen Thambimuthu,)
+* Team Members (Matthew Powaschuk, 30022573) (John Hall,) (Niroojen Thambimuthu, 10153928)
 * Tutorial 03, TA: Sydney Pratte
 
 ## Project Idea
