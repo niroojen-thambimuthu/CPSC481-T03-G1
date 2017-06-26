@@ -15,4 +15,4 @@ Our idea is for an app that would function primarily as a cookbook with many fun
 
 _[summary image -- sketch or picture]_
 
-_To be added in when diagrams are added in P2_
+The image you see is a screenshot of our instructions page on our app. We designed it to be as clear and concise and possible.
