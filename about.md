@@ -1,7 +1,7 @@
 # About
 
-Welcome! This is a log of the design process of our prototype app, 
-created in Axure RP for the class CPSC 481 "Human Computer Interaction" in the Spring of 2017.
+Welcome! This is a log of the design process of our prototype cooking app "Cooking Helper".
+This was created in Axure RP for the class CPSC 481 "Human Computer Interaction" in the Spring of 2017.
 
 Team members are:
 
